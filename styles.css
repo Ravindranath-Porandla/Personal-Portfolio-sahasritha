@@ -66,19 +66,6 @@ body,html{
     color: #ddd;
   }
   
-  .hamburger {
-    display: none;
-  }
-  
-  @media (max-width: 600px) {
-    .nav-links {
-      display: none;
-    }
-  
-    .hamburger {
-      display: block;
-    }
-  }
   
 
 
@@ -94,11 +81,6 @@ body,html{
     margin-bottom: 500px ;
 }
 
-@media(hover:hover) {
-    
-
-
-}
 
 
 .contents h1{
